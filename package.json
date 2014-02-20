@@ -1,14 +1,7 @@
 {
-  "name": "least-squares",
-  "version": "0.0.2",
+  "name": "jprichardson-least-squares",
   "description": "Linear least squares regression analysis.",
-  "homepage": [
-    ""
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jprichardson/least-squares"
-  },
+  "version": "0.0.2",
   "keywords": [
     "least",
     "squares",
@@ -16,19 +9,5 @@
     "regression",
     "statistics"
   ],
-  "author": "JP Richardson <jprichardson@gmail.com>",
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": ""
-    }
-  ],
-  "dependencies": {},
-  "devDependencies": {
-    "testutil": "~0.6.0"
-  },
-  "main": "./lib/least-squares.js",
-  "scripts": {
-    "test": "mocha test"
-  }
+  "dependencies": {}
 }
